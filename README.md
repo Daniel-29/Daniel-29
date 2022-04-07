@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-29)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Daniel-29/Daniel-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
